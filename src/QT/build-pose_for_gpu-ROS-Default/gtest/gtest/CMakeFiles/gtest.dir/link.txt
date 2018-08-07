@@ -1,0 +1,1 @@
+/usr/bin/g++  -fPIC   -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/anurag/mother_ws/selfie_ws/src/QT/build-pose_for_gpu-ROS-Default/gtest/gtest/src -lpthread -Wl,-rpath,/home/anurag/mother_ws/selfie_ws/src/QT/build-pose_for_gpu-ROS-Default/gtest/gtest/src 
